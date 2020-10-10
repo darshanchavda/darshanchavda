@@ -2,8 +2,6 @@
 
 ## Hi there 👋 I am Darshan.
 
-![](https://komarev.com/ghpvc/?username=darshanchavda&label=Views&style=flat-square&color=0366d6)
-
 - 🔭 I’m currently working on ...
       - ASP.NET
 - 🌱 I’m currently learning ...
